@@ -3,4 +3,8 @@ body {
 }
 h1{
     font-weight: bold;
+    
+}
+h2{
+    border: 1px solid rgb(0, 0, 0);
 }
