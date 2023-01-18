@@ -14,12 +14,12 @@ h2{
 }
 .class-row-1{
     box-sizing: border-box;
-    margin: 5px;
+    width: 25%;
     padding: 2px;
 
 }
 #yellow{
-    color: white;
+    color: black;
     background-color: #ffff00;
 
 }
