@@ -3,29 +3,25 @@ body {
 }
 h1{
     font-weight: bold;
+    text-decoration: underline;
     
 }
 h2{
-    border: 1px solid rgb(0, 0, 0);
-}
-.class-panel{
-    text-align: center;
-    display: block;
-}
-.class-row-1{
-    box-sizing: border-box;
-    width: 25%;
-    padding: 50px;
+    color: blue;
+    border-style: double;
+    
 
+}
+.color-container{
+    margin: 40px auto;
+    text-align: center;
+    width: 20vh;
+    display: inline-table;  
+
+} 
+h4{
+    box-sizing: border-box;
 }
 #yellow{
-    color: black;
     background-color: #ffff00;
-    margin: 5px,10px;
-
-}
-#blue{
-    color: black;
-    background-color: #0000ff;
-    margin: 5px 10px;
 }
