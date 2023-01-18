@@ -15,11 +15,17 @@ h2{
 .class-row-1{
     box-sizing: border-box;
     width: 25%;
-    padding: 2px;
+    padding: 50px;
 
 }
 #yellow{
     color: black;
     background-color: #ffff00;
+    margin: 5px,10px;
 
+}
+#blue{
+    color: black;
+    background-color: #0000ff;
+    margin: 5px 10px;
 }
