@@ -9,6 +9,7 @@ h1{
 h2{
     color: blue;
     border-style: double;
+    font-weight: bold;
     
 
 }
@@ -16,12 +17,31 @@ h2{
     margin: 40px auto;
     text-align: center;
     width: 20vh;
-    display: inline-table;  
+    display: inline;  
 
 } 
 h4{
     box-sizing: border-box;
 }
-#yellow{
+#Yellow{
     background-color: #ffff00;
+}
+
+#Green{
+    background-color: #008000;
+}
+
+#Pink{
+    background-color: #ffc0cb;
+}
+#Gold{
+    background-color: #ffd700;
+}
+
+#Brown{
+    background-color: #a52a2a;
+}
+
+#SkyBlue{
+    background-color: #87ceeb;
 }
