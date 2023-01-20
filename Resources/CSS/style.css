@@ -58,19 +58,33 @@ h4{
 h3{
 
     text-decoration: underline;
-    font-weight: 300;
+    font-weight: 400;
 
 
 }
 #Extra-light{
     font-weight: 200;
-    font-size: 12px;
+    
 }
 #semiBold{
-    font-weight: 600;
+    font-weight: bolder;
 
 }
-#Extra-light-Italics{
-    font-weight: 200;
+#light-Italics{
+    font-weight: 300;
+    font-style: italic;
 
+}
+.font-container-2{
+    font-family: 'Nunito Sans', sans-serif;
+    
+}
+#regular{
+    font-weight: 400 ;
+}
+#bold{
+    font-weight: 600;
+}
+#regular-italics{
+    font-weight: 400;
 }
