@@ -52,14 +52,21 @@ h4{
 #Lavender{
     background-color: #e6e6fa;
 }
-h3{
+.font-container{
     font-family: 'Source Code Pro', monospace;
+}
+h3{
+
     text-decoration: underline;
+    font-weight: 300;
 
 
 }
 #Extra-light{
-    font-family:'Source Code Pro', monospace; 
     font-weight: 200;
     font-size: 12px;
+}
+#semiBold{
+    font-weight: 600;
+    
 }
