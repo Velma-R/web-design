@@ -1,16 +1,19 @@
 body {
     text-align: left;
     border: 1px dotted black;
+    background-color: aqua;
 }
 h1{
     font-weight: bold;
     text-decoration: underline;
     
 }
-h2{
+h2,h3{
     color: black;
     border-style: double;
-    font-weight: bold;
+    font-weight: 700;
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 26px;
     
 
 }
@@ -48,44 +51,32 @@ h2{
 #Lavender{
     background-color: #e6e6fa;
 }
-h3{
+h4{
 
     text-decoration: underline;
-    font-weight: 400;
+    font-weight: 500;
+    font-size: 18px;
+    font-family: 'Poppins', sans-serif;
 }
-.font-container{
-    font-family: 'Source Code Pro', monospace;
-    font-size: 50px;
-    font-weight: 700;
+.font.container{
+    font-weight: 400;
+
 }
 
-#light-Italics{
+#light-italics{
     font-style: italic;
-}
-.font-container-2{
-    font-family: 'Nunito Sans', sans-serif;
-    
-}
-#regular{
-    font-weight: 400 ;
 }
 #bold{
-    font-weight: 600;
+    font-weight: bolder;
 }
-#regular-italics{
+
+.paragraph{
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
     font-weight: 400;
-    font-style: italic;
 }
-.font-container-3{
-    font-family: 'Poppins', sans-serif;;
-}
-#medium{
+h5{
     font-weight: 500;
-}
-#black{
-    font-weight: 900;
-}
-#medium-italic{
-    font-weight: 500;
-    font-style: italic;
+    font-size: 18px;
+    font-family: poppins;
 }
