@@ -18,14 +18,10 @@ h2{
     margin: 40px auto;
     text-align: center;
     width: 20vh;
-    display: flexbox; 
-    
+    display: flexbox;    
 
 } 
-h4{
-    box-sizing: border-box;
-    
-}
+
 #Yellow{
     background-color: #ffff00;
 }
@@ -52,28 +48,19 @@ h4{
 #Lavender{
     background-color: #e6e6fa;
 }
-.font-container{
-    font-family: 'Source Code Pro', monospace;
-}
 h3{
 
     text-decoration: underline;
     font-weight: 400;
-
-
 }
-#Extra-light{
-    font-weight: 200;
-    
+.font-container{
+    font-family: 'Source Code Pro', monospace;
+    font-size: 50px;
+    font-weight: 700;
 }
-#semiBold{
-    font-weight: bolder;
 
-}
 #light-Italics{
-    font-weight: 300;
     font-style: italic;
-
 }
 .font-container-2{
     font-family: 'Nunito Sans', sans-serif;
@@ -101,8 +88,4 @@ h3{
 #medium-italic{
     font-weight: 500;
     font-style: italic;
-}
-.class-Heading{
-    font-weight: bolder;
-
 }
