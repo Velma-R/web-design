@@ -1,5 +1,6 @@
 body {
     text-align: left;
+    border: 1px dotted black;
 }
 h1{
     font-weight: bold;
@@ -7,7 +8,7 @@ h1{
     
 }
 h2{
-    color: blue;
+    color: black;
     border-style: double;
     font-weight: bold;
     
@@ -17,11 +18,13 @@ h2{
     margin: 40px auto;
     text-align: center;
     width: 20vh;
-    display: inline;  
+    display: flexbox; 
+    
 
 } 
 h4{
     box-sizing: border-box;
+    
 }
 #Yellow{
     background-color: #ffff00;
@@ -44,5 +47,14 @@ h4{
 
 #Blue{
     background-color: #0000ff;
+
+}
+#Lavender{
+    background-color: #e6e6fa;
+}
+h3{
+    font-family: 'Open Sans', sans-serif;
+    text-decoration: underline;
+
 
 }
